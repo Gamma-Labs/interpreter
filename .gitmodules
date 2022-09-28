@@ -1,0 +1,3 @@
+[submodule "ir_types"]
+	path = ir_types
+	url = https://github.com/gamma-labs/ir_types
